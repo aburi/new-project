@@ -1,1 +1,1 @@
-My New Project
+New Project Template
